@@ -17,7 +17,9 @@ function draw()
   if(keyDown("d")){
     background("green");
   }
-
+  if(keyDown("w")){
+    background("yellow");
+  }
 
 }
 
